@@ -1,0 +1,10 @@
+{
+    "name": "material-design-icons",
+    "description": "Material Design icons by Google",
+    "repos": "https://github.com/google/material-design-icons.git",
+    "main": "iconfont/material-icons.css",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "2.2.0"
+}
